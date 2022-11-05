@@ -1,0 +1,4 @@
+Step 1:- python -m venv <name_of_virtualenv>
+Step 2:- activate venv using ./<name_of_virtualenv>/Scripts/actvate.bat
+Step 3:- Install Jupyter notebook using (pip install notebook) commandjup
+Step 4:- run jupyter notebook and open file Assignment Code.py file
